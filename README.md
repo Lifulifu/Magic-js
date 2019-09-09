@@ -1,1 +1,1 @@
-# Magic.js
+# Magic-js
