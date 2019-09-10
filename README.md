@@ -18,7 +18,7 @@ Render your MagicCircle.
 ```javascript
 mc.draw()
 ```
-<img src='image/1.PNG' width=100>
+<img src='image/1.PNG' width=200>
 
 ## Examples
 
@@ -29,6 +29,7 @@ mc.add(Shapes.circle({padding: 5}))
   .add(Shapes.circle())
   .add(Shapes.polygon(5));
 ```
+<img src='image/2.PNG' width=200>
 
 ### sub-circle
 ```javascript
@@ -45,3 +46,4 @@ mc.add(Shapes.circle({padding: 10}))
   .add(Shapes.polygon(6))
   .add(Shapes.star(6, 2));
 ```
+<img src='image/3.PNG' width=200>
