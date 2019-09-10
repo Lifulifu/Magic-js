@@ -18,7 +18,7 @@ Render your MagicCircle.
 ```javascript
 mc.draw()
 ```
-![img1](image/1.PNG =100x100)
+<img src='image/1.PNG' width=100>
 
 ## Examples
 
