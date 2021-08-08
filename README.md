@@ -1,6 +1,6 @@
 # Magic-js
-Draw svg magic circles in JavaScript with ease!
-Demo: https://lifulifu.github.io/Magic-js/UI
+Draw svg magic circles in JavaScript with ease!  
+Demo at https://lifulifu.github.io/Magic-js/UI
 
 ## Usage
 First, create a MagicCircle instance,
